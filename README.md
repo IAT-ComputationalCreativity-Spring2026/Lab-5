@@ -1,6 +1,6 @@
 # IAT 460 — Week 5 Lab: Multi-Agent Systems
 
-Welcome to the Week 5 lab for **IAT 460 - Computational Creativity**! This repository contains 1 lab notebook.
+Welcome to the Week 5 lab for **IAT 460 - Computational Creativity**! This repository contains 2 lab notebooks.
 
 ---
 
@@ -38,4 +38,5 @@ conda create -n iat460lab5 python=3.12
 ### Option 2
 
 The provided notebook is accessible in Google Colab and requires no setup:
+- [gemini_api](https://colab.research.google.com/github/IAT-ComputationalCreativity-Spring2026/Lab-5/blob/main/gemini_api.ipynb)
 - [multi_agent](https://colab.research.google.com/github/IAT-ComputationalCreativity-Spring2026/Lab-5/blob/main/multi_agent.ipynb)
