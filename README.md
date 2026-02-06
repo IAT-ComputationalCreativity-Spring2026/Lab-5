@@ -9,7 +9,7 @@ Welcome to the Week 5 lab for **IAT 460 - Computational Creativity**! This repos
 In this lab, you will get hands-on experience with:
 
 - Creatig a multi-agent system using **LangChain**
-- Using an open-soure **LLM** from Huggingface.
+- Using the Gemini API **LLM**.
 - Having a multi-LLM system, each LLM for specific tasks
 
 > **Note**: You are not expected to understand all the code. Focus on exploration, experimentation, and discussion.
